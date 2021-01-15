@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![katft182](https://app.circleci.com/pipelines/github/katft182/project-ml-microservice-kubernetes)](https://app.circleci.com/pipelines/github/katft182/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
