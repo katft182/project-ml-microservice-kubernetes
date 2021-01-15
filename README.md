@@ -1,4 +1,4 @@
-[![katft182](https://app.circleci.com/pipelines/github/katft182/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/katft182/project-ml-microservice-kubernetes)
+[![katft182](https://circleci.com/gh/katft182/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/katft182/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
