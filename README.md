@@ -24,4 +24,7 @@ In this project, there is the `sklearn` model that has been trained to predict h
 
 * Setup and Configure Docker locally
 * Setup and Configure Kubernetes locally
-
+* Setup Hado lint locally
+    sudo wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64
+    sudo chmod +x /bin/hadolint
+    
