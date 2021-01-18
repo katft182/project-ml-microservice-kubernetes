@@ -8,6 +8,7 @@
 dockerpath=katft/house
 
 # Step 2:  
+docker login --username katft
 docker tag house $dockerpath
 echo "Docker ID and Image: $dockerpath"
 
